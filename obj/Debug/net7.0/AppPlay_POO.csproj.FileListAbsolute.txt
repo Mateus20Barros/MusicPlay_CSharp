@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.exe
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.deps.json
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.pdb
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\refint\AppPlay_POO.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.pdb
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\AppPlay_POO\obj\Debug\net7.0\ref\AppPlay_POO.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.exe
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\AppPlay_POO.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\refint\AppPlay_POO.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\AppPlay_POO.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\ref\AppPlay_POO.dll

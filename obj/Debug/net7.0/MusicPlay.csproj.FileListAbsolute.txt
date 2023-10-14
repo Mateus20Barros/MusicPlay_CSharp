@@ -1,0 +1,14 @@
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\MusicPlay.exe
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\MusicPlay.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\MusicPlay.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\MusicPlay.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\bin\Debug\net7.0\MusicPlay.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\refint\MusicPlay.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\MusicPlay.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\02_AppPlay_POO\obj\Debug\net7.0\ref\MusicPlay.dll
