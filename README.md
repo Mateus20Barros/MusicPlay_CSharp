@@ -5,8 +5,9 @@
 ### 📃 Sobre o Projeto
 
 **Projeto desenvolvido em ``CSharp`` com base em stream Musical, onde poderá cadastrar ``Banda``, ``Album`` e ``Musica``.
-Há tambem uma classe chamada ``Episodio`` que foi adicionada durante o desenvolvimento do projeto no curso, com foco no stream de filmes.
-A parte visual do programa e visualizada via ``Terminal``, visto que esse projeto e apenas um pequeno conceito de Orientação a Objeto da linguagem CSharp.**
+Há tambem uma classe chamada ``Episodio`` que foi adicionada durante o desenvolvimento do projeto no curso, com foco no stream de filmes.** <br>
+
+**A parte visual do programa e visualizada via ``Terminal``, visto que esse projeto e apenas um pequeno conceito de Orientação a Objeto da linguagem CSharp.**
 <br>
 
 ### 🔥 Sobre POO Aplicada ao projeto
