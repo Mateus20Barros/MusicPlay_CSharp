@@ -38,7 +38,7 @@ public class Banda
     // Forma completa de instanciar uma List.
     public List<string> listaDeBandas = new List<string>();
 
-    // Forma abreviada de instanciar uma List.
+    // Forma simples de instanciar uma List.
     public List<string> nomeDaBanda = new(); 
 }
 ```
