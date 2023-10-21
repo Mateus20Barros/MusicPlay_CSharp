@@ -44,6 +44,28 @@ public class Banda
 ```
 <br>
 
+**``🏷️ Constructor ``** <br>
+**Introduzido o metodo ``Constructor``, que e um tipo especial que será chamado automaticamente quando e criado uma instancia da classe.**
+```CSharp
+class Banda
+{
+    private string nomeBanda;
+    private int qtdeBandas;
+
+    public Banda(string nome, int quantidade)
+    {
+        nomeBanda = nome;
+        qtdeBandas = quantidade;
+    }
+}
+```
+🔹 **Nome do construtor deve ser o mesmo nome da classe.** <br>
+🔹 **Constructor pode ser ``public``, ``private`` ou ``protected``.** <br>
+🔹 **Construtor não pode retornar nenhum valor, entao não pode contém nenhum tipo de retorno .** <br>
+🔹 **Construtor pode ter varios construtores com diferentes parametros, mas só pode ter um construtor sem parametros.** <br>
+🔹 **Se o construtor não e definido, o compilador ``CSharp`` internamente cria o construtor.** <br>
+<br>
+
 **``🏷️ Collection List<> ``** <br>
 **Uma Collection de objetos fortemente tipada que armazena e acessa os seus valores 
 por indice, e possue metodos que classifica, pesquisa e modifica a lista.** <br>
