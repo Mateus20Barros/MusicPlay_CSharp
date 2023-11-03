@@ -4,12 +4,9 @@
 
 ### 📃 Sobre o Projeto
 
-**MusicPlay e um sistema de Stream Musical, desenvolvido na linguagem ``CSharp`` onde o usuario pode realizar cadastro de ``Banda``, ``Album`` e ``Musica``.
-Há tambem uma classe chamada ``Episodio`` que foi adicionada durante o desenvolvimento do projeto no curso, com foco no Stream de Filmes.** <br>
-
-**A parte visual do programa e exibida via ``Terminal``, visto que o projeto e apenas um pequeno conceito de Orientação a Objeto da linguagem CSharp.**
-
-<br>
+**MusicPlay e um sistema de Stream Musical, desenvolvido na linguagem ``CSharp`` onde o usuario pode realizar cadastro de ``Banda``, ``Album`` e ``Musica``**. <br>
+**Há tambem uma classe chamada ``Episodio`` que foi adicionada durante o desenvolvimento do projeto no curso, com foco no Stream de Filmes. A parte visual do programa e 
+exibida via ``Terminal``, visto que o projeto e apenas um pequeno conceito de Orientação a Objeto da linguagem CSharp.** <br><br>
 
 ### 🔥 Conceitos POO Aplicados ao Projeto
 
